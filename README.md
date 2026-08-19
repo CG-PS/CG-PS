@@ -38,7 +38,7 @@ When I'm not working with data, I am training for swim races, volunteering at lo
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Looker-Studio-Expert-F2C811?style=flat&logo=lookerstudio&logoColor=black" alt="Looker Studio Skill Badge">
+  <img src="https://img.shields.io/badge/Looker-Studio-Expert-F2C811?style=flat&logo=lookerstudio&logoColor=blue" alt="Looker Studio Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
